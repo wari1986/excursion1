@@ -14,3 +14,20 @@ body {
   color: aquamarine;
   font-size: 16px;
 }
+
+.secondarytitle {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.p {
+  font-size: 21px;
+  color:gray;
+}
+
+.camp {
+}
+
+p {
+  text-align:center;
+}
