@@ -1,0 +1,16 @@
+body {
+  font-family: verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.main title {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.excursionlink {
+  color: aquamarine;
+  font-size: 16px;
+}
