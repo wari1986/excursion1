@@ -31,3 +31,8 @@ body {
 p {
   text-align:center;
 }
+
+.excursionlogo {
+  text-align: right;
+  color: gray;
+}
